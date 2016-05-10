@@ -1,0 +1,28 @@
+name: Psychohistory mystery tour
+favicon: null
+layout_spectrum: 0.3419709485024214
+typography_spectrum: 0.7376224519684911
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.19990702020004392
+  lightness: 0.497219396289438
+  saturation: 0.7087756707333028
+  rhythmicContrast: 0.2734475259203464
+purpose: []
